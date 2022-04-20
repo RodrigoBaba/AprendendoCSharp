@@ -1,0 +1,16 @@
+D:\rodrigo\Curso C#\Projetos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.exe
+D:\rodrigo\Curso C#\Projetos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.deps.json
+D:\rodrigo\Curso C#\Projetos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.runtimeconfig.json
+D:\rodrigo\Curso C#\Projetos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.runtimeconfig.dev.json
+D:\rodrigo\Curso C#\Projetos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.dll
+D:\rodrigo\Curso C#\Projetos\Primeiro\Primeiro\bin\Debug\net5.0\ref\Primeiro.dll
+D:\rodrigo\Curso C#\Projetos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.pdb
+D:\rodrigo\Curso C#\Projetos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.csproj.AssemblyReference.cache
+D:\rodrigo\Curso C#\Projetos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+D:\rodrigo\Curso C#\Projetos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.AssemblyInfoInputs.cache
+D:\rodrigo\Curso C#\Projetos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.AssemblyInfo.cs
+D:\rodrigo\Curso C#\Projetos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.csproj.CoreCompileInputs.cache
+D:\rodrigo\Curso C#\Projetos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.dll
+D:\rodrigo\Curso C#\Projetos\Primeiro\Primeiro\obj\Debug\net5.0\ref\Primeiro.dll
+D:\rodrigo\Curso C#\Projetos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.pdb
+D:\rodrigo\Curso C#\Projetos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.genruntimeconfig.cache

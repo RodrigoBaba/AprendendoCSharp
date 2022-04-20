@@ -1,0 +1,16 @@
+D:\rodrigo\Curso C#\Projetos\Exercicios\Exercicios\bin\Debug\net5.0\Exercicios.exe
+D:\rodrigo\Curso C#\Projetos\Exercicios\Exercicios\bin\Debug\net5.0\Exercicios.deps.json
+D:\rodrigo\Curso C#\Projetos\Exercicios\Exercicios\bin\Debug\net5.0\Exercicios.runtimeconfig.json
+D:\rodrigo\Curso C#\Projetos\Exercicios\Exercicios\bin\Debug\net5.0\Exercicios.runtimeconfig.dev.json
+D:\rodrigo\Curso C#\Projetos\Exercicios\Exercicios\bin\Debug\net5.0\Exercicios.dll
+D:\rodrigo\Curso C#\Projetos\Exercicios\Exercicios\bin\Debug\net5.0\ref\Exercicios.dll
+D:\rodrigo\Curso C#\Projetos\Exercicios\Exercicios\bin\Debug\net5.0\Exercicios.pdb
+D:\rodrigo\Curso C#\Projetos\Exercicios\Exercicios\obj\Debug\net5.0\Exercicios.csproj.AssemblyReference.cache
+D:\rodrigo\Curso C#\Projetos\Exercicios\Exercicios\obj\Debug\net5.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\rodrigo\Curso C#\Projetos\Exercicios\Exercicios\obj\Debug\net5.0\Exercicios.AssemblyInfoInputs.cache
+D:\rodrigo\Curso C#\Projetos\Exercicios\Exercicios\obj\Debug\net5.0\Exercicios.AssemblyInfo.cs
+D:\rodrigo\Curso C#\Projetos\Exercicios\Exercicios\obj\Debug\net5.0\Exercicios.csproj.CoreCompileInputs.cache
+D:\rodrigo\Curso C#\Projetos\Exercicios\Exercicios\obj\Debug\net5.0\Exercicios.dll
+D:\rodrigo\Curso C#\Projetos\Exercicios\Exercicios\obj\Debug\net5.0\ref\Exercicios.dll
+D:\rodrigo\Curso C#\Projetos\Exercicios\Exercicios\obj\Debug\net5.0\Exercicios.pdb
+D:\rodrigo\Curso C#\Projetos\Exercicios\Exercicios\obj\Debug\net5.0\Exercicios.genruntimeconfig.cache
