@@ -35,6 +35,23 @@ namespace Segundo
             Console.WriteLine("height: " + height.ToString("F2", CultureInfo.InvariantCulture));
 
 
+            //---------------------------------------------------------------------------------------
+            Console.WriteLine();
+            // Segundo Teste
+            /* Sequencia de resolução dos Operadores Lógicos: ! > && > ||, da pra organizar usando
+             * parenteses
+             */
+
+            //---------------------------------------------------------------------------------------
+            Console.WriteLine();
+            // Terceiro Teste
+            // Estrutura condicional: if - else if - else => caso seja so um comando as {} são opcionais
+
+            //---------------------------------------------------------------------------------------
+            Console.WriteLine();
+            // Quarto Teste
+
+
         }
     }
 }

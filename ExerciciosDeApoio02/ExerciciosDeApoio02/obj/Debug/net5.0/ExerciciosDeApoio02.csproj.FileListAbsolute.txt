@@ -1,0 +1,16 @@
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio02\ExerciciosDeApoio02\bin\Debug\net5.0\ExerciciosDeApoio02.exe
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio02\ExerciciosDeApoio02\bin\Debug\net5.0\ExerciciosDeApoio02.deps.json
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio02\ExerciciosDeApoio02\bin\Debug\net5.0\ExerciciosDeApoio02.runtimeconfig.json
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio02\ExerciciosDeApoio02\bin\Debug\net5.0\ExerciciosDeApoio02.runtimeconfig.dev.json
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio02\ExerciciosDeApoio02\bin\Debug\net5.0\ExerciciosDeApoio02.dll
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio02\ExerciciosDeApoio02\bin\Debug\net5.0\ref\ExerciciosDeApoio02.dll
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio02\ExerciciosDeApoio02\bin\Debug\net5.0\ExerciciosDeApoio02.pdb
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio02\ExerciciosDeApoio02\obj\Debug\net5.0\ExerciciosDeApoio02.csproj.AssemblyReference.cache
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio02\ExerciciosDeApoio02\obj\Debug\net5.0\ExerciciosDeApoio02.GeneratedMSBuildEditorConfig.editorconfig
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio02\ExerciciosDeApoio02\obj\Debug\net5.0\ExerciciosDeApoio02.AssemblyInfoInputs.cache
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio02\ExerciciosDeApoio02\obj\Debug\net5.0\ExerciciosDeApoio02.AssemblyInfo.cs
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio02\ExerciciosDeApoio02\obj\Debug\net5.0\ExerciciosDeApoio02.csproj.CoreCompileInputs.cache
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio02\ExerciciosDeApoio02\obj\Debug\net5.0\ExerciciosDeApoio02.dll
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio02\ExerciciosDeApoio02\obj\Debug\net5.0\ref\ExerciciosDeApoio02.dll
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio02\ExerciciosDeApoio02\obj\Debug\net5.0\ExerciciosDeApoio02.pdb
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio02\ExerciciosDeApoio02\obj\Debug\net5.0\ExerciciosDeApoio02.genruntimeconfig.cache
