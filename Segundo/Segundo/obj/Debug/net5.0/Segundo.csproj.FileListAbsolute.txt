@@ -1,0 +1,16 @@
+D:\rodrigo\Curso C#\Projetos\Segundo\Segundo\bin\Debug\net5.0\Segundo.exe
+D:\rodrigo\Curso C#\Projetos\Segundo\Segundo\bin\Debug\net5.0\Segundo.deps.json
+D:\rodrigo\Curso C#\Projetos\Segundo\Segundo\bin\Debug\net5.0\Segundo.runtimeconfig.json
+D:\rodrigo\Curso C#\Projetos\Segundo\Segundo\bin\Debug\net5.0\Segundo.runtimeconfig.dev.json
+D:\rodrigo\Curso C#\Projetos\Segundo\Segundo\bin\Debug\net5.0\Segundo.dll
+D:\rodrigo\Curso C#\Projetos\Segundo\Segundo\bin\Debug\net5.0\ref\Segundo.dll
+D:\rodrigo\Curso C#\Projetos\Segundo\Segundo\bin\Debug\net5.0\Segundo.pdb
+D:\rodrigo\Curso C#\Projetos\Segundo\Segundo\obj\Debug\net5.0\Segundo.csproj.AssemblyReference.cache
+D:\rodrigo\Curso C#\Projetos\Segundo\Segundo\obj\Debug\net5.0\Segundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\rodrigo\Curso C#\Projetos\Segundo\Segundo\obj\Debug\net5.0\Segundo.AssemblyInfoInputs.cache
+D:\rodrigo\Curso C#\Projetos\Segundo\Segundo\obj\Debug\net5.0\Segundo.AssemblyInfo.cs
+D:\rodrigo\Curso C#\Projetos\Segundo\Segundo\obj\Debug\net5.0\Segundo.csproj.CoreCompileInputs.cache
+D:\rodrigo\Curso C#\Projetos\Segundo\Segundo\obj\Debug\net5.0\Segundo.dll
+D:\rodrigo\Curso C#\Projetos\Segundo\Segundo\obj\Debug\net5.0\ref\Segundo.dll
+D:\rodrigo\Curso C#\Projetos\Segundo\Segundo\obj\Debug\net5.0\Segundo.pdb
+D:\rodrigo\Curso C#\Projetos\Segundo\Segundo\obj\Debug\net5.0\Segundo.genruntimeconfig.cache

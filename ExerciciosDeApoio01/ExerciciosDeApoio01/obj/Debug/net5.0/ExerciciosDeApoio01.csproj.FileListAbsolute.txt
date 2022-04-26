@@ -1,0 +1,16 @@
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio01\ExerciciosDeApoio01\bin\Debug\net5.0\ExerciciosDeApoio01.exe
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio01\ExerciciosDeApoio01\bin\Debug\net5.0\ExerciciosDeApoio01.deps.json
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio01\ExerciciosDeApoio01\bin\Debug\net5.0\ExerciciosDeApoio01.runtimeconfig.json
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio01\ExerciciosDeApoio01\bin\Debug\net5.0\ExerciciosDeApoio01.runtimeconfig.dev.json
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio01\ExerciciosDeApoio01\bin\Debug\net5.0\ExerciciosDeApoio01.dll
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio01\ExerciciosDeApoio01\bin\Debug\net5.0\ref\ExerciciosDeApoio01.dll
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio01\ExerciciosDeApoio01\bin\Debug\net5.0\ExerciciosDeApoio01.pdb
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio01\ExerciciosDeApoio01\obj\Debug\net5.0\ExerciciosDeApoio01.GeneratedMSBuildEditorConfig.editorconfig
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio01\ExerciciosDeApoio01\obj\Debug\net5.0\ExerciciosDeApoio01.AssemblyInfoInputs.cache
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio01\ExerciciosDeApoio01\obj\Debug\net5.0\ExerciciosDeApoio01.AssemblyInfo.cs
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio01\ExerciciosDeApoio01\obj\Debug\net5.0\ExerciciosDeApoio01.csproj.CoreCompileInputs.cache
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio01\ExerciciosDeApoio01\obj\Debug\net5.0\ExerciciosDeApoio01.dll
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio01\ExerciciosDeApoio01\obj\Debug\net5.0\ref\ExerciciosDeApoio01.dll
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio01\ExerciciosDeApoio01\obj\Debug\net5.0\ExerciciosDeApoio01.pdb
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio01\ExerciciosDeApoio01\obj\Debug\net5.0\ExerciciosDeApoio01.genruntimeconfig.cache
+D:\rodrigo\Curso C#\Projetos\ExerciciosDeApoio01\ExerciciosDeApoio01\obj\Debug\net5.0\ExerciciosDeApoio01.csproj.AssemblyReference.cache
